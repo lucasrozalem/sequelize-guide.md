@@ -1,6 +1,3 @@
-# sequelize-guide.md
-Listagem de comando sequelize
-
 Lista de comandos:
 yarn sequelize migration:create --name=create-users
 Esta função serve para criar uma nova migration e então definir nela a estrutura do banco
