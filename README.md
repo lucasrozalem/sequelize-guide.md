@@ -1,5 +1,3 @@
-# sequelize-guide.md
-Listagem de comando sequelize
 # Lista de comandos:
 
 ### ``` yarn sequelize migration:create --name=create-users ```
